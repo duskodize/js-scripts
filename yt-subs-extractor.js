@@ -1,5 +1,5 @@
 /*
-running this on the browser's dev console will extract names of subscribed channels from
+running this on a browser's dev console will extract names of subscribed channels from
 "https://www.youtube.com/feed/channels"
 */
 
